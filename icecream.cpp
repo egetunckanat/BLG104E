@@ -59,4 +59,5 @@ int main()
 			cout<<" "<<road[i];
 		cout<<endl;
 	}
+	return 0;
 }
